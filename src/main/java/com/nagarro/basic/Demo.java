@@ -10,7 +10,7 @@ public class Demo {
 
 	public static void main(String arg[]) {
 		
-		int num = 123;
+		int num = 123878567;
 		int rev =0;
 		for(int i=0;num>0;i++) {
 			int tem = num%10;
