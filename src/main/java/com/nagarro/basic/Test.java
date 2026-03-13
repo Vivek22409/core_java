@@ -3,6 +3,7 @@ package com.nagarro.basic;
 public class Test {
 	public static void main(String arg[]){
 		System.out.println("Hello");
+		System.out.println("\\");
 		int[] intArr = {-8,1,2,-6,3,-4,6,2,-1};
 		int product=Integer.MIN_VALUE, temp=Integer.MIN_VALUE;
 
